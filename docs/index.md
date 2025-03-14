@@ -1,6 +1,3 @@
-Typr, Typer, or Type-R
-======================
-
 # Typr: A DSL for Type-Driven Code Generation
 
 **Typr** is a Domain-Specific Language (DSL) designed to provide a clear, concise way to define data and generate code. Unlike generic data serialization formats like YAML, JSON, and TOML, Typr is specifically tailored for expressing complex type systems and facilitating efficient code generation across multiple target languages.
